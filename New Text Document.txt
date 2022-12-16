@@ -1,0 +1,7 @@
+esp-ftdi
+purple-blue
+blue-green
+green-yellow
+orange-orange
+
+ESP 32 Wrover Module
